@@ -1,1 +1,3 @@
 # PASTEL
+
+(c) Victor Geiser
