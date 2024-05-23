@@ -3,7 +3,9 @@
 To view the associated publication for this project see here: link.
 
 CHANGES IN PROGESS: Integration of regional airborne campaign WAS data (AEROMMA, DISCOVER-AQ, KORUS-AQ, FIREX-AQ).
+
 CHANGES IN PROGESS: Algorithmic / Architectural changes to incorporate better spatial and temporal feature encoding.
+
 CHANGES IN PROGESS: Addressing data imbalence.
 
 ## Table of Contents
