@@ -2,11 +2,7 @@
 
 To view the associated publication for this project see here: link.
 
-UPDATES IN PROGESS: Integration of regional airborne campaign WAS data (AEROMMA, DISCOVER-AQ, KORUS-AQ, FIREX-AQ).
-
-UPDATES IN PROGESS: Algorithmic / Architectural changes to incorporate better spatial and temporal feature encoding.
-
-UPDATES IN PROGESS: Addressing data imbalence.
+MAJOR UPDATES IN PROGESS!
 
 ## Table of Contents
 
@@ -21,7 +17,7 @@ UPDATES IN PROGESS: Addressing data imbalence.
 
 ## About
 
-The purpose of this project is to explore the predicability of atmospheric trace substance concentraions using meteorological variables.
+The purpose of this project is to explore the predicability of atmospheric trace substance concentraions from the underlying meteorological variables prior to their collection.
 
 This project/model are very much in the development stage. Results are preliminary.
 
