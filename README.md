@@ -32,11 +32,11 @@ Be sure to look at 'Prerequisites' section for necessary packages.
 
 ### Prerequisites
 
-The provided 'environment.yml' file is all the packages currently required to run the main PASTEL.py file. 
+The provided 'pvocal_env.yml' file is the environment with the packages currently required to run the main pvocal_env file. 
 
 To install the environment file run this line in an anaconda prompt window:
 
-  conda env create -f environment.yml
+  conda env create -f pvocal_env.yml
 
 ### Installation
 
