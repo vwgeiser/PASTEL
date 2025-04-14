@@ -1,4 +1,4 @@
-# PASTEL (Predictions of AtmoSpheric Trace substances in the Environment using machine Learning)
+# PASTEL (Predictive model for Atmospheric Substances and Trace pollutants in the Environment using machine Learning)
 
 To view the associated publication for this project see here: link. (upcoming!)
 For a link to all associated data used along side the above publication see here : link. (upcoming!)
