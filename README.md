@@ -1,6 +1,7 @@
 # PASTEL (Predictive model for Atmospheric Substances and Trace pollutants in the Environment using machine Learning)
 
 To view the associated publication for this project see here: link. (upcoming!)
+
 For a link to all associated data used along side the above publication see here : link. (upcoming!)
 
 MAJOR UPDATES IN PROGESS!
@@ -72,6 +73,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Acknowledgments
 
 -All contributors for PySPLIT!
+
 -The NASA SARP program for giving me the courage to chase the idea this project is based off.
 
 ---
