@@ -24,7 +24,7 @@ The PASTEL model uses meteorological variables calculated along backwards trajec
 
 Disclaimer! - I apologize for messy code, I started this project when I was still a programming novice and have learned much since! Absolute paths from my local machine still need to be changed and some logic dependant on these abolute paths (i.e. positions of variable names within these paths for plotting purpooses) may need to be changed first to properply run the main PASTEL model notebook.
 
-This project/model are very much in the development stage. If you are interested in the project and think you may want to help, feel free to reach out using the information below with .
+This project/model are very much in the development stage. If you are interested in the project and think you may want to help, feel free to reach out using the information below.
 
 ## Getting Started
 
