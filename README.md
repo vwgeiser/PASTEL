@@ -34,7 +34,7 @@ Be sure to look at 'Prerequisites' section for necessary packages. Or use the pr
 
 ### Prerequisites
 
-The provided 'pastel_env.yml' file is the environment with the packages currently required to run the main pvocal_env file. 
+The provided 'pastel_env.yml' file is the environment with the packages currently required to run the main pvocal_env file, if you want to create the environment from scratch, please look at that file, or the top of the main "code/v0_1_5_PASTEL.ipynb" to see what packages to get started with.
 
 To install the environment file run this line in an anaconda prompt window:
 
@@ -48,7 +48,7 @@ Make sure to use the provided environment file and find the data in the Zenodo l
 
 ## Usage
 
-The primary use cases for PASTEL are: 1) you need/want a more realistc interpolator for spatial gaps within an underlying dataset of atmospheric trace substances, or 2) predictions of: dimethyl sulfide (C2H6S), methane (CH4), carbon monoxide (CO), ozone (O3), Ethane (C2H6), or methyl bromide (CH3Br) are warrented over a region where you have meteorological data, but not atmospheric chemistry data.  
+The primary use cases for PASTEL are: 1) you need/want a more realistc interpolator for spatial gaps within an underlying dataset of atmospheric trace substances, or 2) predictions of: dimethyl sulfide (C2H6S), methane (CH4), carbon monoxide (CO), ozone (O3), ethane (C2H6), or methyl bromide (CH3Br) are warrented over a region where you have meteorological data, but not atmospheric chemistry data.  
 
 Currently the code is specialized to model creation itself and its basic evaluation but expanding this so it can be used in more general cases is the goal. 
 
