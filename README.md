@@ -58,7 +58,7 @@ It can predict 6 target compounds: DMS, Ethane, Ozone, Carbon Monoxide, Methane,
 
 ## Contributing
 
-Main contributions include making the model compatible with all VOCs from each airborne campaign (joining all inconsistant names into one input dataset) and adapting the code so that this process is more streamlined. 
+Main contributions include making the model compatible with all VOCs from each airborne campaign (joining all inconsistant names into one input dataset) and adapting the code so that the process for adding additional compounds is more streamlined. 
 
 Turning this code it into a package so other folks can begin to use the model in their workflows is probably the biggest thing that needs to be done. This will probably mean a transition from notebook files to .py/object oriented scripts.
 
